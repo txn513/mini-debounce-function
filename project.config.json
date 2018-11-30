@@ -1,0 +1,12 @@
+{
+	"miniprogramRoot": "miniprogram/",
+	"pluginRoot": "plugin/",
+	"compileType": "plugin",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "touristappid",
+	"projectname": "%E5%AE%9E%E4%BE%8B2",
+	"libVersion": "2.2.0",
+	"condition": {}
+}
