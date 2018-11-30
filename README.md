@@ -1,1 +1,1 @@
-# juhe-notes
+# miniprogram plugin example
